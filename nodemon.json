@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "bikram",
+    "MONGO_PASSWORD": "uExdDelIXChjdcOo",
+    "MONGO_DB": "event-react"
+  }
+}
